@@ -2,7 +2,7 @@
 Innocent Ndubuisi-Obi Jr <innoobi@cs.washington.edu>
 
 :authors: Innocent Ndubuisi-Obi Jr <innoobi@cs.washington.edu> 
-:state: prediscussion
+:state: published
 :discussion: 
 :labels: comma, separated, labels
 
