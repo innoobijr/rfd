@@ -1,3 +1,3 @@
 # RFD Repo
 
-A repo of RFDs and other 
+A repo of RFDs and other necessary items.
