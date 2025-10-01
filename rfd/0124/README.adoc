@@ -1,0 +1,9 @@
+= braids: BGP Routing and Administration Interface, Daemon, and Simulator  
+Innocent Ndubuisi-Obi Jr <innoobi@cs.washington.edu>
+
+:authors: Innocent Ndubuisi-Obi Jr <innoobi@cs.washington.edu> 
+:state: published
+:discussion: 
+:labels: comma, separated, labels
+
+Braids is intended to be a BGP platform that supports extensibility. 
