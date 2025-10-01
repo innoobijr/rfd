@@ -6,6 +6,8 @@ Innocent Ndubuisi-Obi Jr <innoobi@cs.washington.edu>
 :discussion: 
 :labels: evpn, vxlan, testbed, bgp
 
+0001
+
 The goal of PATIO is to provide an secure and cooperative research computing infrastructure around Africa. Additionally, with PATIO we hope to be a place where researchers and innovators on the continent can create new way of computing on the continent. As such, we hope to provide facilities to innovate at all layers of the internet stack. This is why we are building `braides`, our type-safe and extensible BGP platform. It is my view that BGP is not a routing protocol. Rather it is the compositional interface of interdomain routing. This puts BGP in a pretty unique place in regards to its role in the modern Internet. In fact, new RFCs like the containers proposals marks this realization: *BGP is a platform and not just a protocol.*
  
 == 1. Goals
